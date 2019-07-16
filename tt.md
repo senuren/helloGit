@@ -1,12 +1,14 @@
 dfg
 <<<<<<< HEAD
+<<<<<<< HEAD
 ++>>>>>>>>>>>>>>>> sdfasdasdasdasd
 =======
 ++>>>>>>>>>>> Head
 >>>>>>> weeeeeel
+=======
+>>>>>>> weeeeeel
 sersg
-++<<<<<<<<<<<<defv
-erg
+rg
 red
 ger
 g
