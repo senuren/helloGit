@@ -1,6 +1,7 @@
 dfg
 <<<<<<< HEAD
 ++>>>>>>>>>>>>>>>> sdfasdasdasdasd
+=======
 ++>>>>>>>>>>> Head
 >>>>>>> weeeeeel
 sersg
